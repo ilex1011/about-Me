@@ -6,10 +6,10 @@ Ambitious, result-focused Bachelor student with professional training in softwar
 
 ### Education
 
-|Year|Program | Institution| Award |
+| Year | Program | Institution |
 |---|---|---|---|
-|2018 - (2021)| Computer Science| The Chinese University of Hong Kong| |
-|2016 - 2018 | Software Engineering | The Hong Kong Institute of Vocational Education (Lee Wai Lee) | Higher Diploma (Distinction) |
+|2019 - (2022)| Information Engineering | The Chinese University of Hong Kong |
+|2018 - 2019 | Engineering | The Chinese University of Hong Kong |
 
 ### Work Experiences
 |Year|Job Title|Company|
