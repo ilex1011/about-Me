@@ -8,8 +8,8 @@ Ambitious, result-focused Bachelor student with professional training in softwar
 
 |Year|Program|Institution|
 |---|---|---|---|
-|2019 - (2022)| Information Engineering | The Chinese University of Hong Kong |
-|2018 - 2019 | Engineering | The Chinese University of Hong Kong |
+|2019 - (2022)| Information Engineering | The Chinese University of Hong Kong|
+|2018 - 2019 | Engineering | The Chinese University of Hong Kong|
 
 ### Work Experiences
 |Year|Job Title|Company|
