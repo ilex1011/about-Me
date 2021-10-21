@@ -19,11 +19,17 @@ Ambitious, result-focused Bachelor student with professional knowledge in big da
 
 ### Programming Language/Technique that I have learnt
 #### Web app development
-|Language|Framework/Stacks/Runtime_environment|
+|Language|/Stacks/Runtime_environment|
 |---|---|
-|Javascript|PERN stack web app|
-|HTML/CSS| &nbsp; |
-|php| &nbsp;|
+|Javascript|Express/React/Node stack web app|
+|HTML/CSS| Wordpress website|
+|PHP| Wordpress website|
+#### Big data analytics and machine learning
+|python|
+|java|
+#### OS file system and security
+|C| |
+|python||
 
 ## Stuffs that I did in CUHK
 ### What CS courses I have studied/ am studying
