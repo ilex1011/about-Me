@@ -14,31 +14,14 @@ Ambitious, result-focused Bachelor student with professional knowledge in big da
 ### Work Experiences
 |Year|Job Title|Company|
 |---|---|---|
-|2021 - |Part-time Machine Learning Developer|Aerovision Technology Limited|
+|2021|Machine Learning Developer Intern|Aerovision Technology Limited|
 
 
 ### Programming Language that I have learnt
 
-|Language|Framework|
+|Language|Framework/Stacks/Runtime_environment|
 |---|---|
-|Java|J2EE, Android|
-|Kotlin| Android|
-|Swift|iOS|
-|Javascript| jQuery, electron, node.js (Express.js)|
-|C#| UWP, ASP.NET Core|
-|Dart| Flutter|
-|C| &nbsp;|
-|Python|&nbsp; |
-|Go| &nbsp;|
-|COBOL| &nbsp;|
-|Fortran| &nbsp;|
-|Perl| &nbsp;|
-|PHP| &nbsp; |
-|Pascal| &nbsp; |
-|ABAP| &nbsp; |
-|Powershell| &nbsp; |
-
-and many more!
+**Web app development
 
 ## Stuffs that I did in CUHK
 ### What CS courses I have studied/ am studying
