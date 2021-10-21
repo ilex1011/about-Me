@@ -17,11 +17,13 @@ Ambitious, result-focused Bachelor student with professional knowledge in big da
 |2021|Machine Learning Developer Intern|Aerovision Technology Limited|
 
 
-### Programming Language that I have learnt
-
+### Programming Language/Technique that I have learnt
+#### Web app development
 |Language|Framework/Stacks/Runtime_environment|
 |---|---|
-**Web app development
+|Javascript|PERN stack web app|
+|HTML/CSS| &nbsp; |
+|php| &nbsp;|
 
 ## Stuffs that I did in CUHK
 ### What CS courses I have studied/ am studying
