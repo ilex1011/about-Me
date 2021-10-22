@@ -19,18 +19,18 @@ Ambitious, result-focused Bachelor student with professional knowledge in big da
 
 ### Programming Language/Technique that I have learnt
 #### Web app development
-|Language|frameworks/Stacks/Runtime_environment|
+|Language|Frameworks/Stacks/Runtime_environment|
 |---|---|
 |Javascript|Express/React/Node stack web app|
 |HTML/CSS| Wordpress website|
 |PHP| Wordpress website|
 #### Big data analytics and machine learning
-|Language|frameworks/Stacks/Runtime_environment|
+|Language|Frameworks/Stacks/Runtime_environment|
 |---|---|
 |python|
 |java|
 #### OS file system and security
-|Language|frameworks/Stacks/Runtime_environment|
+|Language|Frameworks/Stacks/Runtime_environment|
 |---|---|
 |C| |
 |python||
